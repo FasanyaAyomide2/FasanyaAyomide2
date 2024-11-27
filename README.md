@@ -50,6 +50,7 @@ Feel free to explore my repositories and get in touch!
 ---
 
 ### 📞 Contact
-- Email: [fasanyaayomide2019@gmail.com]
+- Email: [Email](fasanyaayomide2019@gmail.com).
 - Youtube: [Youtube](http://www.youtube.com/@FasanyaAyomide2).
 - TikTok: [TikTok](http://www.tiktok.com/@nobody.nobody_01).
+- Facebook: [Facebook](http://www.facebook.com/@FasanyaAyomide2).
