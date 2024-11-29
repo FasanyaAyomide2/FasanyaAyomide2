@@ -53,9 +53,9 @@ Feel free to explore my repositories and get in touch!
 - Email: [Email](fasanyaayomide2019@gmail.com).
 - Youtube: [Youtube](http://www.youtube.com/@FasanyaAyomide2).
 - TikTok: [TikTok](http://www.tiktok.com/@nobody.nobody_01).
+- Facebook: [Facebook](http://www.facebook.com/@FasanyaAyomide2).
+
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Contributors](https://img.shields.io/badge/contributors-5-orange)
-
-- Facebook: [Facebook](http://www.facebook.com/@FasanyaAyomide2).
