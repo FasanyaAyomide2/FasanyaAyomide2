@@ -45,7 +45,9 @@ I have a passion for teaching and mentoring. I help beginners learn:
 
 ---
 
-Feel free to explore my repositories and get in touch!
+## 🌐 **Live Portfolio**  
+
+Check out the live version of my portfolio: [Katlego Seiphemo Portfolio](https://fasanyaayomide2.github.io/My-Portfolio/)  
 
 ---
 
